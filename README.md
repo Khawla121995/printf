@@ -60,6 +60,6 @@ Handle the following custom conversion specifier:
                                                                                     
 15. *                                                                               
 All the above options work well together.
-Collaborators: Hossam &Khwla.
+Collaborators: khawla and hossam.
 
 Good readme but why not explain the files you created in it?
