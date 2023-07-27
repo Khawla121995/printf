@@ -60,6 +60,10 @@ Handle the following custom conversion specifier:
 
 15. *                                                                               
 All the above options work well together.
+<<<<<<< HEAD
 Collaborators: Omojuwa Babatunde & MCCHANCE.
+=======
+Collaborators: khawla and hossam.
+>>>>>>> b27ba687e7c1a8e6ef93e74f8b292b8e45a2369d
 
 Good readme but why not explain the files you created in it?
